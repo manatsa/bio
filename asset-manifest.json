@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/bio/static/css/main.9c612f80.css",
-    "main.js": "/bio/static/js/main.748750ed.js",
+    "main.css": "/bio/static/css/main.c5d2be45.css",
+    "main.js": "/bio/static/js/main.b9569aae.js",
     "static/js/787.c3937eda.chunk.js": "/bio/static/js/787.c3937eda.chunk.js",
+    "static/media/masvingo.jpg": "/bio/static/media/masvingo.039facdc01e7643a99eb.jpg",
+    "static/media/gz.jpg": "/bio/static/media/gz.b0f62ed6ffefda19ab2c.jpg",
+    "static/media/hotel.JPG": "/bio/static/media/hotel.b46340f88e9f244378a0.JPG",
+    "static/media/nyanga.jpg": "/bio/static/media/nyanga.bcc5f115a3fe1a923405.jpg",
     "static/media/main.jpg": "/bio/static/media/main.3b4d9aa7514d1805df5c.jpg",
+    "static/media/sharp.jpg": "/bio/static/media/sharp.45f663ff8c5358fabc49.jpg",
+    "static/media/lodge.jpg": "/bio/static/media/lodge.451d7b2e85cb0fa22a81.jpg",
+    "static/media/office.jpg": "/bio/static/media/office.5760f62395b2f1a9ba6a.jpg",
     "index.html": "/bio/index.html",
-    "main.9c612f80.css.map": "/bio/static/css/main.9c612f80.css.map",
-    "main.748750ed.js.map": "/bio/static/js/main.748750ed.js.map",
+    "main.c5d2be45.css.map": "/bio/static/css/main.c5d2be45.css.map",
+    "main.b9569aae.js.map": "/bio/static/js/main.b9569aae.js.map",
     "787.c3937eda.chunk.js.map": "/bio/static/js/787.c3937eda.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c612f80.css",
-    "static/js/main.748750ed.js"
+    "static/css/main.c5d2be45.css",
+    "static/js/main.b9569aae.js"
   ]
 }
