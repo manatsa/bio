@@ -8,11 +8,11 @@ const Overview = () => {
                 StopPosition={0}
                 ShowAtPosition={150}
                 EasingType='easeOutCubic'
-                AnimationDuration={500}
+                AnimationDuration={100}
                 ContainerClassName='ScrollUpButton__Container'
                 TransitionClassName='ScrollUpButton__Toggled'
-                style={{}}
-                ToggledStyle={{}}
+                style={{backgroundColor:'dodgerblue', borderColor:'dodgerblue', color:'white'}}
+                ToggledStyle={{backgroundColor:'dodgerblue', borderColor:'dodgerblue', color:'white'}}
             />
             <div className={'padded-20'} id={'nav'}>
                 <nav aria-label="breadcrumb">
