@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/bio/static/css/main.eebc93f1.css",
-    "main.js": "/bio/static/js/main.e270f2b4.js",
-    "static/js/787.c3937eda.chunk.js": "/bio/static/js/787.c3937eda.chunk.js",
+    "main.css": "/bio/static/css/main.ef1933fc.css",
+    "main.js": "/bio/static/js/main.1403b99b.js",
+    "static/js/787.e5f56525.chunk.js": "/bio/static/js/787.e5f56525.chunk.js",
     "static/media/masvingo.jpg": "/bio/static/media/masvingo.039facdc01e7643a99eb.jpg",
     "static/media/gz.jpg": "/bio/static/media/gz.b0f62ed6ffefda19ab2c.jpg",
     "static/media/hotel.JPG": "/bio/static/media/hotel.b46340f88e9f244378a0.JPG",
@@ -12,12 +12,12 @@
     "static/media/lodge.jpg": "/bio/static/media/lodge.451d7b2e85cb0fa22a81.jpg",
     "static/media/office.jpg": "/bio/static/media/office.5760f62395b2f1a9ba6a.jpg",
     "index.html": "/bio/index.html",
-    "main.eebc93f1.css.map": "/bio/static/css/main.eebc93f1.css.map",
-    "main.e270f2b4.js.map": "/bio/static/js/main.e270f2b4.js.map",
-    "787.c3937eda.chunk.js.map": "/bio/static/js/787.c3937eda.chunk.js.map"
+    "main.ef1933fc.css.map": "/bio/static/css/main.ef1933fc.css.map",
+    "main.1403b99b.js.map": "/bio/static/js/main.1403b99b.js.map",
+    "787.e5f56525.chunk.js.map": "/bio/static/js/787.e5f56525.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eebc93f1.css",
-    "static/js/main.e270f2b4.js"
+    "static/css/main.ef1933fc.css",
+    "static/js/main.1403b99b.js"
   ]
 }
