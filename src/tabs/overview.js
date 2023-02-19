@@ -37,16 +37,14 @@ const Overview = () => {
             <div className={'padded-20 bg-secondary bg-opacity-10'} id={'achievements'}>
                 <h3 className={'text-danger'}>MAJOR ACHIEVEMENTS</h3>
                 <ul className={'text-success'}>
-
-                    <li> Migrated 5 USSD short code application from monolith architecture to microservices architecture using spring cloud.</li>
-                    <li> Designed, developed, and deployed automated task allocation system for Edgars stores.</li>
-                    <li> Developed React Native Based App for Africaid currently hosted on google play.</li>
-                    <li> Designed, developed, and deployed funeral policy management system using JavaFX.</li>
-                    <li> Designed, developed, and deployed mobile app for a Mobile Network Operator which had failed more than 3 times in the past.</li>
-                    <li> Supervised design, development, deployment, and maintenance of more than 20 projects</li>
+                    <li>Migrated 5 USSD short code application from monolith architecture to microservices architecture using spring cloud (teamwork).</li>
+                    <li>Designed, developed, and deployed automated task allocation system for Edgars stores. Developed React Native Based App for Africaid currently hosted on google play.</li>
+                    <li>Designed, developed, and deployed funeral policy management system using JavaFX.</li>
+                    <li>Designed, developed, and deployed mobile app for Telecel Zimbabwe.</li>
+                    <li>Developed a react native based mobile application for Africaid-Zvandiri and deployed to play store.</li>
+                    <li>Designed and created a fast and resource efficient spring batch reports extraction system for Africaid-Zvandiri.</li>
+                    <li>Supervised design, development, deployment, and maintenance of more than 20 projects</li>
                     <li> Many more.</li>
-
-
                 </ul>
             </div>
 
