@@ -13,7 +13,7 @@ function App() {
   return (
     <div className={'container main'}>
         <div className={'d-flex justify-content-center align-items-center'}>
-            <img src={main} width={'300'} height={'300'} alt={'header-main'} className={'header-image'}/>
+            <img src={main} width={'200'} height={'200'} alt={'header-main'} className={'header-image'}/>
         </div>
         <div className={'col-md-12 d-flex justify-content-center align-items-center'}>
             <h3>Manatsa Chinyeruse Profile</h3><br/>
