@@ -38,9 +38,14 @@ const Experience = () =>{
                        </table>
                         <h5 className={'text-danger'}>Duties</h5>
                         <ul>
-                            <li className={'text-primary'}>.</li>
-                            <li className={'text-primary'}>.</li>
-                            <li className={'text-primary'}>.</li>
+                            <li className={'text-primary'}>System administration for Pure Policy Administration System</li>
+                            <li className={'text-primary'}>Software development to automate manual processes in the organization.</li>
+                            <li className={'text-primary'}>Data extraction and Reporting</li>
+                            <li className={'text-primary'}>Group IT team resources management and representing the interests of Zimnat Lion Insurace.</li>
+                            <li className={'text-primary'}>Vendor engagement and SLA management.</li>
+                            <li className={'text-primary'}>Creation and maintenance of IT procedures and processes.</li>
+                            <li className={'text-primary'}>IT governance, Risk and compliance</li>
+
                         </ul>
                     </Accordion.Body>
                 </Accordion.Item>

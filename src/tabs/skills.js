@@ -58,6 +58,8 @@ const Skills=()=>{
                             <li>NextJS Framework</li>
                             <li>CSS Framework</li>
                         </ul>
+                        <h5 className={'text-danger'}>Microsoft Power Platform</h5>
+                        <p className={'text-success'}>Sharepoint, PowerApps, PowerAutomate, etc </p>
                         <h5 className={'text-danger'}>Databases</h5>
                         <p className={'text-success'}>Oracle, MySQL, Postgres and SQL Server Administration and development</p>
                         <h5 className={'text-danger'}>Integration</h5>
