@@ -63,17 +63,17 @@ const Projects = () =>{
                             <p className={'text-danger'}>PROBLEM - There were multiple servers, some of which were underutilized while others were overloaded, leading to frequent server downtimes during peak hours</p>
                             <p className={'text-success'}>SOLUTION - Implementing microservices and distributing them across all servers. To mitigate security risk, all request were made to pass through a single gateway and authentication and authorization was also handled by the gateway</p>
                             <h5 className={'text-primary'}>Creation of Zvandiri's Zvamoda Mobile Application</h5>
-                            <p className={'text-danger'}>PROBLEM - Telecel had no mobile application, and had had more than two failed attempts.</p>
-                            <p className={'text-success'}>SOLUTION - Supervised and assisted technically in the development of the mobile application. My role was more of a LEAD developer. While myself and some Graduate Trainees focussed on the mobile app itself, the API was created by another pair withing my team.</p>
+                            <p className={'text-danger'}>PROBLEM - The mobile application which Zvandiri had lacked some features, it was made from obsolete technology, not appealing and lacked some very important functionality.</p>
+                            <p className={'text-success'}>SOLUTION - Created a new mobile application using React Native, which had modern features and is easy to maintain. It has a lot of options and very much appealing.</p>
                             <h5 className={'text-primary'}>Spring Batch based Zvandiri Reports Systems</h5>
-                            <p className={'text-danger'}>PROBLEM - Doves Holdings wanted an application to enable customers to query information about their policies and potential customers to self register into a second level database.</p>
-                            <p className={'text-success'}>SOLUTION - Together with my assistant, I engaged on development of the mobile app and delivered withing three months.</p>
+                            <p className={'text-danger'}>PROBLEM - Exporting reports from the Zvandiri System became very difficult and the system would run out of memory during report collation for large data sets.</p>
+                            <p className={'text-success'}>SOLUTION - Created a spring batch based reporting system which does not run out of memory due to its ability to process data in smaller chunks before writing it to excel.</p>
                             <h5 className={'text-primary'}>Development of Automated Task Allocation System for Edgars Stores</h5>
-                            <p className={'text-danger'}>PROBLEM - Doves Funeral Assurance used to manage customer data on excel files which made it difficult to manage payments, as they were scattered across different files</p>
-                            <p className={'text-success'}>SOLUTION - With my assistant, we created a JAVAFX based system which was to manage customer policy data including payments, dependents and claims.</p>
+                            <p className={'text-danger'}>PROBLEM - Edgars wanted its debt collectors to be allocated tasks such that the amounts they were to collect were to be almost similar, and it had to be automated.</p>
+                            <p className={'text-success'}>SOLUTION - Created a PHP based task allocation system to allocate multiple cutomers to multiple debt collectors such that their target collections were almost similar.</p>
                             <h5 className={'text-primary'}>Development of Customer Management System for Oceane Cosmetics</h5>
-                            <p className={'text-danger'}>PROBLEM - Doves Branches were using dongles to connect to the internet and could not access some services from Head office as they required one to be with Doves network.</p>
-                            <p className={'text-success'}>SOLUTION - Designed the network for branches, configured routers and switches to connect to the internet via a VPN to the head office.</p>
+                            <p className={'text-danger'}>PROBLEM - Oceane cosmetics did not have a system to record their operations, customers, agents and transactions as well as get automated reports.</p>
+                            <p className={'text-success'}>SOLUTION - Implemented an system to take care of their operations as well as a mobile application for their agent to send data to the central system.  </p>
                             <h5 className={'text-primary'}>More...</h5>
                         </ul>
                     </Accordion.Body>
