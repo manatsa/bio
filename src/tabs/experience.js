@@ -36,11 +36,29 @@ const Experience = () =>{
                            </tr>
                            </tbody>
                        </table>
-                        <h5 className={'text-danger'}>Duties</h5>
+                        <h5 className={'text-danger'}>Main Duties</h5>
                         <ul>
-                            <li className={'text-primary'}>.</li>
-                            <li className={'text-primary'}>.</li>
-                            <li className={'text-primary'}>.</li>
+                            <li className={'text-primary'}>
+                                Deliver IT solutions that provide competitive advantage to support growth of the business.
+                            </li>
+                            <li className={'text-primary'}>
+                                Formulation and implementation of firm’s IT strategy.
+                            </li>
+                            <li className={'text-primary'}>
+                                Take responsibility of the firm’s core systems, including administration, maintenance and development.
+                            </li>
+                            <li className={'text-primary'}>
+                                Supervise IT staff job performance
+                            </li>
+                            <li className={'text-primary'}>
+                                Anticipate risk and suggest mitigating solutions
+                            </li>
+                            <li className={'text-primary'}>
+                                Manage yearly budgets and warrant cost effectiveness
+                            </li>
+                            <li className={'text-primary'}>
+                                Devising and implementing secure and efficient data handling procedures
+                            </li>
                         </ul>
                     </Accordion.Body>
                 </Accordion.Item>
